@@ -20,18 +20,37 @@ The FRRS software operates on client/server architecture. It can run on any syst
 
 ### Screenshots
 
-
 #### Login Page
+
+![login](https://user-images.githubusercontent.com/30803397/30282501-79c5966c-96e3-11e7-9014-4386b4b242e1.jpg)
+
 #### Registration page
+
+![register](https://user-images.githubusercontent.com/30803397/30282541-95604b2e-96e3-11e7-94c6-2b6a45c7996a.jpg)
+
 #### View reservations page
+
+![view rooms](https://user-images.githubusercontent.com/30803397/30282573-aa252976-96e3-11e7-9bf7-07a7425c2d03.jpg)
+
 #### Search page
+
+![search rooms](https://user-images.githubusercontent.com/30803397/30282560-a40d32a4-96e3-11e7-8f7f-47903b6b4ebc.jpg)
+
 #### Reserve a room page
+
+![reserve rooms](https://user-images.githubusercontent.com/30803397/30282615-c71c92f8-96e3-11e7-9b1c-c7568b6d4989.jpg)
 
 #### Payment page
 
+![payment](https://user-images.githubusercontent.com/30803397/30282582-b0d93bd6-96e3-11e7-9722-be77d0824d00.jpg)
+
 ### Use Case Diagram
+
+![use case](https://user-images.githubusercontent.com/30803397/30282780-4864646c-96e4-11e7-82bc-0038fbadcd1d.jpg)
+
 ### MySQL Database Design
 
+![e-r diagram](https://user-images.githubusercontent.com/30803397/30282594-b94fbaa6-96e3-11e7-85d4-68f1b05e484b.jpg)
 
 
 ### Future Development and migration to mobile platforms
