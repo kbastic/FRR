@@ -16,7 +16,7 @@ Facility Rental Reservation Online System (FRRS) consists of two parts:
 1.	Reservation web site that enables clients to view, reserve and cancel room reservations.
 2.	Database with client information such as user name, address, login and password, reservations history and facility's information regarding rooms availability, price etc.
 
-
+The FRRS software operates on client/server architecture. It can run on any system with Apache web server and MySQL database. The website functionality is implemented by using the following programming and scripting languages: PHP, HTML, CSS, SQL, AJAX and JavaScript.
 
 ### Screenshots
 
