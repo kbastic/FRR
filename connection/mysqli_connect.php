@@ -1,4 +1,4 @@
-<?php # Script 9.2 - mysqli_connect.php
+<?php # mysqli_connect.php
 
 // This file contains the database access information. 
 // This file also establishes a connection to MySQL, 
